@@ -8,10 +8,11 @@
         "category": "Metadata",
         "versions": [
             {
-                "checksum": "8af22a44b7bfc2ad486934a4f0a7875b",
+                "checksum": "67e23431ccfba53d69f086813f0a00cc",
                 "changelog": "init",
+                "sourceUrl": "https://github.com/fawni/ptj/releases/download/v1.0.0/ptp_1.0.0.0.zip",
                 "targetAbi": "10.8.0.0",
-                "timestamp": "2025-09-01T10:47:16Z",
+                "timestamp": "2025-09-01T10:57:53Z",
                 "version": "1.0.0.0"
             }
         ]
