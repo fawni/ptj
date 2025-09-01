@@ -1,0 +1,18 @@
+---
+name: "PTP"
+guid: "f6de1369-9161-46a5-976e-c152f2736bc3"
+version: "1.0.0"
+targetAbi: "10.8.0.0"
+framework: "net6.0"
+overview: "PTP external link"
+description: >
+  This simple plugin adds ptp as an external link to movies
+category: "Metadata"
+owner: "fawn"
+artifacts:
+- "PTP.dll"
+changelog: >
+  Initial Version
+build_type: "dotnet"
+dotnet_configuration: "Release"
+dotnet_framework: ".net6.0"

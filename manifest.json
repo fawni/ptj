@@ -1,0 +1,19 @@
+[
+    {
+        "guid": "f6de1369-9161-46a5-976e-c152f2736bc3",
+        "name": "PTP",
+        "overview": "PTP external link",
+        "description": "This simple plugin adds ptp as an external link to movies",
+        "owner": "fawn",
+        "category": "Metadata",
+        "versions": [
+            {
+                "checksum": "8af22a44b7bfc2ad486934a4f0a7875b",
+                "changelog": "init",
+                "targetAbi": "10.8.0.0",
+                "timestamp": "2025-09-01T10:47:16Z",
+                "version": "1.0.0.0"
+            }
+        ]
+    }
+]
